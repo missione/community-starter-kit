@@ -6,7 +6,7 @@ A GitHub App built with probot that celebrates new user activity within your rep
 ## What it does
 
 FEATURES PLACEHOLDER
-A GitHub App built with probot that celebrates new user activity within your repository.
+
 
 ## Getting started
 
