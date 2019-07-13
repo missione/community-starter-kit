@@ -1,11 +1,12 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+hi this is mona git probot
 
 ## What it does
 
 FEATURES PLACEHOLDER
-
+it will help you getting started
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
